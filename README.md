@@ -44,7 +44,6 @@ python tests/test_agent.py
 
 ## Documentation
 
-- `docs/PROJECT_WRITEUP.md` - Complete project writeup (all requirements)
 - `docs/ARCHITECTURE.md` - System architecture and design
 - `docs/API_DOCUMENTATION.md` - Detailed API documentation
 
